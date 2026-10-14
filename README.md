@@ -1,48 +1,63 @@
-# Awesome-Foreign-Data-Localization-Compliance-Audits
+# 🌍 Awesome Foreign Data Localization Compliance Audits 🛡️
 
-## Top Foreign Data Localization Compliance Audits Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Foreign Data Localization Compliance Audits Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🧭 Curated Foreign Data Localization & Compliance Audits Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+> **A comprehensive, SEO-optimized knowledge index of enterprise SaaS platforms, open-source policy engines, and data residency guardrails.**  
+> *Enforcing cross-border data protection, sovereign boundaries, cryptographic custody, and verifiable regulatory audit trails across GDPR, India DPDPA & RBI, China PIPL, EU AI Act, and KRITIS.*
 
-*Focused on Regional Boundary Enforcement, Data Residency Guardrails & Compliance Evidence*  
+**Last updated:** October 2026 📅
 
-**Last updated: October 2026**
+---
 
+### 🔍 Overview & Architecture
 
+This repository tracks notable **SaaS platforms** and **open-source policy-as-code frameworks** for **Foreign Data Localization Compliance Audits**. These tools empower global enterprises, platform architects, DevSecOps teams, and compliance officers to:
+- 🌐 Enforce data sovereignty boundaries and geopolitical isolation.
+- 🔀 Restrict and inspect cross-border data flows and international transfers.
+- 🔐 Isolate PII, PHI, and sensitive financial records in localized sovereign data vaults.
+- 📑 Generate non-repudiable, cryptographic, audit-ready compliance proof across complex regulatory mandates.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Foreign Data Localization Compliance Audits**. These tools enable organizations to enforce data residency boundaries, monitor cross-border transfers, and produce audit-ready evidence that processing follows strict regional geographic requirements—GDPR, DPDPA, RBI, KRITIS, and beyond.
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architectural Composition & Frameworks](#-architectural-composition--frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#-disclaimer)
 
-**Examples** include Securiti.ai, BigID, OneTrust DataGuidance, InCountry, Ketch, Transcend, Privacera, Skyflow, Immuta, and TrustArc (the category leaders).
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global data privacy, sovereign cloud governance, and data localization compliance software market is estimated at approximately **$5.3B–$6.6B**, projected to surge past **$25B–$30B+ by the early 2030s** driven by aggressive geopolitical regulatory enactments (including the EU GDPR & AI Act, India's DPDPA & RBI mandates, Saudi Arabia/Gulf PDPL, China's PIPL, and regional NIS2/KRITIS directives). 
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, policy-as-code enforcement, and sovereign audit trails—ideal for compliance teams, platform engineers, and developers seeking transparent, jurisdiction-aware data governance.
+The market remains **moderately to highly fragmented** rather than winner-take-all. Because international compliance demands varied domain specializations—ranging from code-level infrastructure scanning and admission gatekeepers, to cryptographic vaulting, consent orchestration, and localized cloud points-of-presence—no single monolithic provider monopolizes global compliance.
 
+---
 
+## 🏢 SaaS/Hosted Platforms
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+The following enterprise platforms provide managed, turn-key solutions for global data residency, discovery, privacy orchestration, and continuous audit verification, sorted descending by company scale:
 
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global data privacy and data localization compliance software market is estimated at approximately $5.3B–$6.6B (projected to reach over $25B–$30B by the early 2030s driven by proliferating cross-border transfer barriers such as GDPR, DPDPA, and PIPL). The sector remains moderately to highly fragmented rather than winner-take-all, as diverse regional jurisdictional nuances, varied enforcement requirements (e.g., cryptographic vaulting vs. consent orchestration vs. database access proxying), and localized cloud infrastructure mandates prevent a single platform from monopolizing global compliance.
-
-## SaaS/Hosted Platforms
-
-| Platform | Company Size (Valuation / Revenue) | Starting Pricing | Free Tier / Trial Limits | Description |
+| Platform | Company Size (Valuation / Revenue) 🏢 | Starting Pricing 💳 | Free Tier / Trial Limits ⏳ | Key Capabilities & Description 📋 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OneTrust DataGuidance](https://www.onetrust.com/)** | $4.5B valuation (~$500M+ ARR) | ~$10,000/year platform minimum (modular quotes per user/jurisdiction) | 14-day sales-assisted trial (no self-serve free tier; sandbox environments restricted to qualified enterprise evaluations) | Enterprise privacy management with regulatory research across 300+ jurisdictions, consent management, DSR automation, and data mapping. |
 | **[Securiti.ai](https://securiti.ai/)** | $1.725B valuation (Acquired by Veeam for $1.725B; ~$75M+ ARR) | ~$25,000/year (custom enterprise subscription based on connectors and scanned data volume) | 14-day guided sandbox / POC upon sales approval (no permanent free tier; developer firewalls under separate community trials) | Data privacy and AI governance platform with regional boundary enforcement, data discovery, classification, and policy enforcement across cloud environments. |
@@ -55,130 +70,120 @@ The global data privacy and data localization compliance software market is esti
 | **[Ketch](https://www.ketch.com/)** | ~$100M–$150M valuation ($43M funded; ~$9M ARR) | $0/month (Free Tier); Starter paid tier starts at $150/month ($1,800/year) | Free tier: Up to 5,000 monthly unique visitors (includes CMP, preference center, 2 integrations); 30-day free trial on paid plans | Privacy automation platform with consent management, data subject rights, and cross-border transfer policy enforcement. |
 | **[InCountry](https://incountry.com/)** | ~$60M–$100M valuation ($66M funded; ~$10M–$14M ARR) | ~$2,500/month (~$30,000/year entry tier per regulated country point-of-presence) | 30-day sandbox evaluation trial upon request (for localized storage APIs and AgentCloak; no perpetual free tier) | Data residency-as-a-service platform. Stores regulated data in-country while applications remain global. Features local encryption, key management, and compliance with data localization mandates. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated open-source repositories for self-hosted data localization, policy-as-code enforcement, sovereign AI governance, and infrastructure audits. Sorted descending by GitHub star count:
 
+- **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
+  Unified metadata platform for data governance, automated data discovery, data lineage, and geolocation residency classification. Enables teams to tag tables and columns with regional sovereignty attributes and audit cross-region pipeline movements across modern data lakes.
 
+- **[DataHub](https://github.com/datahub-project/datahub)** [![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers)  
+  Extensible metadata search and data governance architecture originally created at LinkedIn. Provides deep lineage tracking, automated compliance tagging for regional boundary enforcement, and audit logs tracking data residency changes across multi-cloud environments.
 
-- **[rbi-compliance-scanner](https://github.com/swayam-crypto/terraform-rbi-compliance-scanner)**  
+- **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
+  General-purpose policy engine that enables unified, context-aware policy-as-code enforcement across cloud services, microservices, and databases. Serves as the foundational enforcement engine for evaluating whether API transactions, database queries, and storage operations comply with territorial residency rules.
 
-  Terraform static analysis tool checking infrastructure code against **RBI cybersecurity guidance and India's DPDPA data protection requirements** (MIT). **The most India-specific open-source compliance scanner available.** Encodes rules like RBI-001: detecting S3 buckets holding sensitive financial data provisioned outside India (e.g., `us-east-1` instead of `ap-south-1`). **5 rules implemented** covering data localization, encryption, audit log retention, network exposure, and IAM least-privilege. Features **inline suppression** with audit-counting (suppressed findings are reported, not silently hidden), parallel scanning with incremental cache for large repos, and **GitHub Actions CI/CD integration**. Actively being developed—5 of planned 8 rules implemented. **Note**: Not yet validated by a compliance professional .
+- **[Microsoft Presidio](https://github.com/data-privacy-stack/presidio)** [![Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social&color=white)](https://github.com/data-privacy-stack/presidio/stargazers)  
+  Context-aware PII detection, redaction, and de-identification SDK. Used extensively in sovereign data pipelines to detect sensitive jurisdictional records before egressing across national borders or passing into third-party LLMs.
 
+- **[Checkov](https://github.com/bridgecrewio/checkov)** [![Stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social&color=white)](https://github.com/bridgecrewio/checkov/stargazers)  
+  Static code analysis tool for Infrastructure as Code (Terraform, CloudFormation, Kubernetes, ARM, Bicep). Validates cloud resource configurations against data sovereignty policies, ensuring cloud storage buckets, databases, and compute nodes are strictly deployed in designated sovereign geopolitical zones.
 
+- **[OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/gatekeeper?style=social&color=white)](https://github.com/open-policy-agent/gatekeeper/stargazers)  
+  Validating and mutating webhook admission controller that enforces OPA CRD-based policies in Kubernetes clusters. Guarantees that workloads, persistent volumes, and node selectors strictly adhere to geographic and sovereign boundary requirements before pods are scheduled.
 
-- **[Edge Policy Hub](https://github.com/acailic/edge-policy-hub)**  
+- **[Conftest](https://github.com/open-policy-agent/conftest)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/conftest?style=social&color=white)](https://github.com/open-policy-agent/conftest/stargazers)  
+  Utility for writing tests against structured configuration data using Rego. Enforces regional data localization guardrails directly in CI/CD pipelines against Kubernetes manifests, Terraform plans, and server configurations prior to production deployment.
 
-  Open-source **ABAC policy engine with data residency guardrails** using OPA/Rego (open-source). **The most comprehensive open-source residency enforcement framework available.** Features **multi-tenant isolation with hard separation**, **HTTP(S) egress proxy with policy enforcement**, **MQTT bridge for IoT telemetry**, **human-readable policy DSL compiled to Rego**, **signed append-only audit store**, and **per-tenant quota tracking**. **Data residency guardrails** are a first-class MVP requirement—policies can enforce rules like `allow read sensor_data if subject.tenant_id == "tenant-eu" and resource.region == "EU" and subject.device_location in ["DE", "FR", "NL"]` . Deployable via Docker Compose, systemd, or click-to-deploy installers for Linux/Windows/macOS. **Offline-first operation** with optional audit log sync.
+- **[Fides](https://github.com/ethyca/fides)** [![Stars](https://img.shields.io/github/stars/ethyca/fides?style=social&color=white)](https://github.com/ethyca/fides/stargazers)  
+  Privacy-as-code platform providing automated data mapping, consent management, and data subject requests (DSAR). Built for developers and privacy engineers to declare data types, track categories, and enforce jurisdictional data retention rules directly inside application codebases.
 
+- **[GovLLM](https://github.com/JehanneDussert/govllm)** [![Stars](https://img.shields.io/github/stars/JehanneDussert/govllm?style=social&color=white)](https://github.com/JehanneDussert/govllm/stargazers)  
+  Continuous LLM governance and compliance monitoring framework for regulated environments (EU AI Act, GDPR, ANSSI). Self-hosted and profile-driven, verifying that no sensitive AI prompts or embeddings leave designated sovereign infrastructure.
 
+- **[Azure Sovereign AI Landing Zone (SAIL)](https://github.com/Azure/SAIL)** [![Stars](https://img.shields.io/github/stars/Azure/SAIL?style=social&color=white)](https://github.com/Azure/SAIL/stargazers)  
+  Infrastructure-as-Code deployment template engineered to deploy LLMs with total in-region compute and data sovereignty. Designed for highly regulated banking, healthcare, and public sector organizations that prohibit offshore egress.
 
-- **[Admina Residency Enforcer](https://github.com/admina-org/admina/blob/main/admina/domains/data_sovereignty/residency.py)**  
+- **[Borderlint](https://github.com/iolairus/borderlint)** [![Stars](https://img.shields.io/github/stars/iolairus/borderlint?style=social&color=white)](https://github.com/iolairus/borderlint/stargazers)  
+  Developer tool for mapping where AI data and embeddings flow across networks and governing those telemetry paths against strict geographic residency and digital sovereignty policies.
 
-  Open-source Python module for **data residency enforcement** (open-source). **The simplest open-source implementation of zone-based data residency validation.** Features **allowed zones configuration** (default: `["local", "eu"]`), **outbound transfer blocking**, **violation tracking with statistics**, and **dataclass-based violation reporting**. `check()` method validates source and target zones—returns `allowed: False` with reason if transfer violates policy. **Designed to be called on every ingest/query operation** by a `GovernedData` wrapper .
+- **[Admina Residency Enforcer](https://github.com/admina-org/admina)** [![Stars](https://img.shields.io/github/stars/admina-org/admina?style=social&color=white)](https://github.com/admina-org/admina/stargazers)  
+  Lightweight Python module for zone-based data residency validation. Enforces allowed geographic zones (e.g. `["local", "eu"]`), blocks unauthorized outbound data serialization, tracks violation statistics, and returns structured dataclass audit reports.
 
+- **[Semantic Firewall](https://github.com/hbauzan/semantic-firewall)** [![Stars](https://img.shields.io/github/stars/hbauzan/semantic-firewall?style=social&color=white)](https://github.com/hbauzan/semantic-firewall/stargazers)  
+  Local-first semantic firewall for LLMs and RAG architectures. Analyzes 1024D embedding geometry to enforce data sovereignty and intercept prompt injections completely offline without external cloud dependencies.
 
+- **[rbi-compliance-scanner](https://github.com/swayam-crypto/terraform-rbi-compliance-scanner)** [![Stars](https://img.shields.io/github/stars/swayam-crypto/terraform-rbi-compliance-scanner?style=social&color=white)](https://github.com/swayam-crypto/terraform-rbi-compliance-scanner/stargazers)  
+  Specialized Terraform static analysis tool checking infrastructure code against **Reserve Bank of India (RBI) cybersecurity guidance and India's DPDPA data protection requirements**. Encodes rules such as detecting S3 buckets storing payment data provisioned outside `ap-south-1`.
 
-- **[Sentinel Kernel](https://pypi.org/project/sentinel-kernel/)**  
+- **[Edge Policy Hub](https://github.com/acailic/edge-policy-hub)** [![Stars](https://img.shields.io/github/stars/acailic/edge-policy-hub?style=social&color=white)](https://github.com/acailic/edge-policy-hub/stargazers)  
+  ABAC policy engine with data residency guardrails using OPA/Rego. Features multi-tenant hard isolation, HTTP(S) egress proxy with policy enforcement, signed append-only audit stores, and human-readable policy DSL compiling down to Rego.
 
-  Sovereign decision records and policy-as-code for LLM/agent systems (Apache-2.0). **The most sovereign-focused open-source AI governance tool available.** Features **in-process OPA/Rego evaluation** (no network, no OPA server), **air-gapped operation** with zero network connectivity, **BSI IT-Grundschutz path**, **EU AI Act Article 12 compliance**, and **quantum-safe signing (ML-DSA-65)**. Critical path—interceptor, policy evaluation, trace emission, storage—**contains no US-owned components**. Explicitly addresses **US CLOUD Act exposure**: "No contract eliminates it. Sentinel's critical path is architectural, not a configuration option." Storage backends: SQLite (local), PostgreSQL (enterprise), Filesystem NDJSON (air-gapped) .
+- **[Federated Sovereignty](https://github.com/abhijit-ubale/Federated-Sovereignty)** [![Stars](https://img.shields.io/github/stars/abhijit-ubale/Federated-Sovereignty?style=social&color=white)](https://github.com/abhijit-ubale/Federated-Sovereignty/stargazers)  
+  Kubernetes operator for geopolitical data residency enforcement. Uses OPA Gatekeeper to validate every Pod creation to strictly bind workloads to EU (GDPR) or regional clusters, featuring geographical map dashboards and auditable constraint histories.
 
+- **[Sovereign Guard AI](https://github.com/GSS-creator/sovereign-guard-ai)** [![Stars](https://img.shields.io/github/stars/GSS-creator/sovereign-guard-ai)](https://github.com/GSS-creator/sovereign-guard-ai/stargazers)  
+  Enterprise trust gateway equipped with deep packet inspection (DPI) to monitor AI traffic, detect cross-border data leakage, and store tamper-evident audit logs in edge-localized KV/D1 storage.
 
+### 📦 Ecosystem Tools & Reference Architectures
 
-- **[Federated Sovereignty](https://github.com/abhijit-ubale/Federated-Sovereignty)**  
-
-  Open-source **Kubernetes operator for geopolitical data residency enforcement** (open-source). **The most production-grade open-source residency enforcement for Kubernetes.** Uses **OPA Gatekeeper** to validate every Pod creation—**developers cannot bypass geopolitical constraints**. Features **lock data to EU (GDPR)**, enforce US localization, support China restrictions, multi-region support, **policy YAML creation with automatic validation**, **expiry date management**, namespace exemptions, **Streamlit dashboard with Folium geographical maps**, and **comprehensive audit trail**. 7,150+ lines of production-grade code including 4,500+ lines of documentation. Deployment via `deploy.sh` with prerequisite checking and CRD installation .
-
-
-
-- **[tibet-audit](https://pypi.org/project/tibet-audit/)**  
-
-  Open-source compliance scanner with **sovereignty checks and jurisdictional crossing** (open-source). **The most jurisdiction-aware open-source audit tool.** Features **120 checks across 17 regulatory frameworks** including **Gulf PDPL data localization** (GULF-001: CRITICAL), GDPR, AI Act, Japan APPI, Singapore PDPA, Australia Privacy Act, Brazil LGPD, and South Korea PIPA. **Checkpoint mode** crosses from one jurisdiction to another (`tibet-audit checkpoint --from eu --to us`) with a full crossing matrix. **Compliance health score 0-100** with severity-weighted deductions. TIBET integration for **cryptographic proof of AI decisions** and immutable audit trails .
-
-
-
-- **[SemantixRAG](https://pypi.org/project/semantixrag/)**  
-
-  Open-source RAG platform with **compliance module including PII scanning and GDPR DSAR automation** (open-source). Features **PII detection via Microsoft Presidio** (30+ types), **dynamic masking** with type-specific tokens, **risk level classification** (low/medium/high), **GDPR DSAR automation** (find/delete/export subject data across document, chunk, embedding, and memory indexes), and **OPA policy engine** for access control and masking strategy. Configuration via environment variables (`RAG_PII_SCAN_ENABLED`, `RAG_MASKING_ENABLED`, `RAG_AUDIT_LOG_ENABLED`) .
-
-
-
-- **[ProvMap](https://provmap.com)**  
-
-  Open-source dataset mapping **cloud provider compliance and jurisdiction risk** (open-source). **The most comprehensive open-source cloud jurisdiction reference available.** Covers **55 cloud providers** with SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS certification status, **data residency by region**, **US CLOUD Act exposure**, and parent company relationships. **Verified sources for every data point.** Dataset is a git submodule for independent contribution. Stack: TanStack Start, Drizzle ORM, Postgres, Tailwind .
-
-
-
-- **[semantic-firewall](https://github.com/hbauzan/semantic-firewall)**  
-
-  Local-first semantic firewall for LLMs and RAG (open-source). Validates 1024D embedding geometry to **enforce data sovereignty and block prompt injections**. Deterministic—does not require live LLM provider. Features **firewall logic** (blocking, piggybacking rejection, noise pre-filter), **DB saturation testing** (LanceDB scaling from 1k to 50k rows), and **load test suite** (3 payload profiles × 3 concurrency levels) .
-
-
-
-- **[sovereign-guard-ai](https://github.com/GSS-creator/sovereign-guard-ai)**  
-
-  Enterprise compliance and trust gateway with **Deep Packet Inspection (DPI) engine** (open-source). Features **Lobster Trap DPI** with rule-based traffic inspection, **Cloudflare Workers deployment**, **Hugging Face Docker Space** for the DPI engine, and **KV/D1 storage** for audit logs. Full deployment guide includes UptimeRobot keep-alive configuration for free-tier Spaces .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Data Sovereignty Stack (ossalt)](https://ossalt.com/guides/data-sovereignty-open-source-stack-2026)** — Comprehensive guide to building sovereign infrastructure: Hetzner/OVH/Scaleway for EU-jurisdiction compute, MinIO/Garage/Ceph for object storage, OpenBao/Infisical for secrets, PostgreSQL/Citus/YugabyteDB for databases, Keycloak/Kanidm/authentik for IAM, Prometheus/Grafana/Loki for observability, and Nextcloud/Mattermost for collaboration .
-
-- **[Red Hat Digital Sovereignty Readiness Appraisal](https://github.com/redhat/digital-sovereignty)** — Open-source framework assessing **7 domains and 48 capabilities** including data sovereignty (residency, jurisdiction control, key management), technical sovereignty (portability, open standards), operational sovereignty, assurance sovereignty, and executive oversight. Workshop-based 2-3 hour collaborative assessment .
-
-- **[Tractatus Framework](https://codeberg.org/mysovereignty/tractatus-framework)** — Open-source governance framework (Apache-2.0) for sovereign record architecture. Module-by-module publication strategy for threat model review before release. EUPL-1.2 licensed platform code. "Village Model Licence" under development for community protection clauses .
-
-- Community **n8n** workflows for residency violation alerting and compliance evidence routing.
-
-
-
-**Frameworks for building custom systems**: Combine **Edge Policy Hub** for OPA-based residency guardrails with **rbi-compliance-scanner** for IaC-level enforcement, **Federated Sovereignty** for Kubernetes-native geopolitical constraints, **tibet-audit** for multi-jurisdiction compliance scanning, **Sentinel Kernel** for sovereign AI decision records, and **ProvMap** for cloud provider jurisdiction reference—creating a fully self-hosted, enterprise-grade data localization audit platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Data localization compliance systems handling regulated data must comply with applicable jurisdictional requirements (GDPR, DPDPA, RBI, KRITIS, PIPL, etc.). **Legal review remains essential**—tools support enforcement, not legal advice.
-
-- **Data residency is not the same as digital sovereignty.** Where data sits is only one dimension. Complete sovereignty also requires **operational control** (who operates infrastructure), **administrative access** (who can view/modify data), **encryption key management** (who holds keys), **support personnel location**, **subcontractor dependencies**, **portability/exit rights**, and **resilience during geopolitical disruption**. US CLOUD Act exposure applies even to data in EU data centers operated by US companies .
-
-- **Open-source localization audits are emerging, not mature.** rbi-compliance-scanner is **not yet validated by a compliance professional** . Federated Sovereignty is production-grade for Kubernetes but requires OPA Gatekeeper expertise . **No single open-source tool provides the end-to-end data mapping, classification, and jurisdiction-aware policy enforcement of Securiti.ai or BigID.** Integration work is required.
-
-- **Policy-as-code is the open-source sweet spot.** Edge Policy Hub's OPA/Rego enforcement with human-readable DSL compilation provides deterministic, testable residency guardrails . Federated Sovereignty's OPA Gatekeeper integration prevents developers from bypassing geopolitical constraints at the Kubernetes admission layer .
-
-- Self-hosted open-source solutions require proper security hardening, policy governance, and ongoing maintenance. Data localization violations can result in regulatory penalties—validation against legal requirements is essential before production deployment.
-
-
+- **[Sentinel Kernel](https://pypi.org/project/sentinel-kernel/)** — Sovereign decision records and in-process OPA/Rego evaluation for LLM agent systems. Operates air-gapped with quantum-safe signing (ML-DSA-65) to protect against US CLOUD Act exposure.
+- **[tibet-audit](https://pypi.org/project/tibet-audit/)** — Jurisdiction-aware compliance scanner with 120 checks across 17 regulatory frameworks (including Gulf PDPL and GDPR), calculating compliance health scores (0-100) and cryptographic decision proofs.
+- **[SemantixRAG](https://pypi.org/project/semantixrag/)** — Open-source RAG platform with PII scanning (via Presidio) and GDPR DSAR automation for document chunking and vector storage.
+- **[ProvMap](https://provmap.com)** — Open dataset mapping 55+ cloud providers with certification statuses, regional data residency footprints, and parent-company CLOUD Act exposures.
+- **[Data Sovereignty Stack (ossalt)](https://ossalt.com/guides/data-sovereignty-open-source-stack-2026)** — Blueprints for assembling EU-sovereign clouds using Hetzner/OVH/Scaleway, MinIO/Ceph, OpenBao, Keycloak, and PostgreSQL.
 
 ---
 
+## 🛠️ Architectural Composition & Frameworks
 
+To establish a comprehensive, self-hosted foreign data localization audit system:
+1. **Infrastructure as Code Layer**: Enforce cloud region placement with [Checkov](https://github.com/bridgecrewio/checkov) and [rbi-compliance-scanner](https://github.com/swayam-crypto/terraform-rbi-compliance-scanner).
+2. **Kubernetes Workload Layer**: Prevent offshore container deployment via [OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper) and [Federated Sovereignty](https://github.com/abhijit-ubale/Federated-Sovereignty).
+3. **Data Discovery & Cataloging Layer**: Classify jurisdiction-sensitive datasets using [OpenMetadata](https://github.com/open-metadata/OpenMetadata) and [DataHub](https://github.com/datahub-project/datahub).
+4. **Application & Network Egress Layer**: Inspect and sanitize payload transfers with [Microsoft Presidio](https://github.com/data-privacy-stack/presidio) and [Edge Policy Hub](https://github.com/acailic/edge-policy-hub).
+5. **AI Sovereignty Layer**: Audit LLM inferences and prompt retention boundaries using [GovLLM](https://github.com/JehanneDussert/govllm), [Sentinel Kernel](https://pypi.org/project/sentinel-kernel/), and [Borderlint](https://github.com/iolairus/borderlint).
 
-**Made for compliance officers, platform engineers, and developers building transparent data localization audit solutions.**
+---
 
-Let's make Foreign Data Localization Compliance Audits more open, data-driven, and jurisdiction-aware.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help build the definitive open resource for foreign data localization compliance:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a feature branch (`git checkout -b feature/new-sovereignty-tool`).
+3. 📝 Add or update entries in `README.md` keeping descriptions factual, concise, and linked to official repositories or sites.
+4. ⭐ Add the GitHub stars badge for open-source repositories using the standard format.
+5. 🚀 Submit a Pull Request with a clear description of the project and its relevance to data residency compliance.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated collection valuable for your compliance audits, research, or engineering workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with colleagues and DevSecOps / Privacy engineering communities.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated index** — provided for informational and architectural benchmarking purposes and does not constitute formal legal counsel.
+- Systems handling sensitive customer data or regulated financial/health records must adhere to jurisdictional statutory mandates (GDPR, DPDPA, RBI, PIPL, HIPAA, KRITIS, etc.). Formal validation by accredited legal and compliance professionals is strongly advised.
+- **Data residency is distinct from complete digital sovereignty**: True sovereignty requires end-to-end control across physical infrastructure ownership, key custody, administrative operational personnel locations, subcontractor supply chains, and immunity from extraterritorial laws (such as the US CLOUD Act).
+
+---
+
+<p align="center">
+  <b>Built for compliance officers, security architects, platform engineers, and sovereign cloud builders. 🚀</b>
+</p>
