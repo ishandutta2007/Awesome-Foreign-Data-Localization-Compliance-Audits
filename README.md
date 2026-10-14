@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global data privacy and data localization compliance software market is estimated at approximately $5.3B–$6.6B (projected to reach over $25B–$30B by the early 2030s driven by proliferating cross-border transfer barriers such as GDPR, DPDPA, and PIPL). The sector remains moderately to highly fragmented rather than winner-take-all, as diverse regional jurisdictional nuances, varied enforcement requirements (e.g., cryptographic vaulting vs. consent orchestration vs. database access proxying), and localized cloud infrastructure mandates prevent a single platform from monopolizing global compliance.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Securiti.ai](https://securiti.ai/)**  
-
-  Data privacy and AI governance platform with **regional boundary enforcement**, data discovery, classification, and policy enforcement across cloud environments.
-
-
-
-- **[BigID](https://bigid.com/)**  
-
-  Data intelligence platform for privacy, security, and governance. Features data discovery, classification, and **jurisdiction-aware policy enforcement** across structured and unstructured data.
-
-
-
-- **[OneTrust DataGuidance](https://www.onetrust.com/)**  
-
-  Enterprise privacy management with **regulatory research across 300+ jurisdictions**, consent management, DSR automation, and data mapping.
-
-
-
-- **[InCountry](https://incountry.com/)**  
-
-  Data residency-as-a-service platform. **Stores regulated data in-country** while applications remain global. Features local encryption, key management, and compliance with data localization mandates.
-
-
-
-- **[Ketch](https://www.ketch.com/)**  
-
-  Privacy automation platform with consent management, data subject rights, and **cross-border transfer policy enforcement**.
-
-
-
-- **[Transcend](https://transcend.io/)**  
-
-  Privacy infrastructure platform with DSR automation, consent management, and **data mapping with residency controls**.
-
-
-
-- **[Privacera](https://privacera.com/)**  
-
-  Data security and governance platform with **fine-grained access control, data masking, and policy enforcement** across cloud data platforms.
-
-
-
-- **[Skyflow](https://www.skyflow.com/)**  
-
-  Data privacy vault with **regional data residency enforcement**. Stores PII in isolated data vaults per jurisdiction with granular access controls.
-
-
-
-- **[Immuta](https://www.immuta.com/)**  
-
-  Data access governance platform with **policy enforcement, data masking, and audit trails** for cloud data platforms.
-
-
-
-- **[TrustArc](https://trustarc.com/)**  
-
-  Privacy compliance platform with **regulatory assessment, data mapping, and cross-border transfer management**.
+| Platform | Company Size (Valuation / Revenue) | Starting Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[OneTrust DataGuidance](https://www.onetrust.com/)** | $4.5B valuation (~$500M+ ARR) | ~$10,000/year platform minimum (modular quotes per user/jurisdiction) | 14-day sales-assisted trial (no self-serve free tier; sandbox environments restricted to qualified enterprise evaluations) | Enterprise privacy management with regulatory research across 300+ jurisdictions, consent management, DSR automation, and data mapping. |
+| **[Securiti.ai](https://securiti.ai/)** | $1.725B valuation (Acquired by Veeam for $1.725B; ~$75M+ ARR) | ~$25,000/year (custom enterprise subscription based on connectors and scanned data volume) | 14-day guided sandbox / POC upon sales approval (no permanent free tier; developer firewalls under separate community trials) | Data privacy and AI governance platform with regional boundary enforcement, data discovery, classification, and policy enforcement across cloud environments. |
+| **[BigID](https://bigid.com/)** | $1.0B valuation (~$100M+ ARR) | ~$15,000/year (Express tier; enterprise deployments scale via custom private offers) | Scoped free risk assessment / shadow AI scan upon sales request (no permanent free tier or automated self-serve trial) | Data intelligence platform for privacy, security, and governance. Features data discovery, classification, and jurisdiction-aware policy enforcement across structured and unstructured data. |
+| **[Immuta](https://www.immuta.com/)** | $1.0B valuation (~$60M+ ARR) | ~£1,000/user/year (~$1,300/user/year; typical minimum enterprise commitments start at ~$25,000–$50,000/year) | 14-day guided proof-of-concept (POC) sandbox upon sales review (no self-serve free forever plan) | Data access governance platform with policy enforcement, data masking, and audit trails for cloud data platforms. |
+| **[TrustArc](https://trustarc.com/)** | ~$300M+ valuation (Private equity-backed; $109M+ funded; ~$50M ARR) | ~$10,000/year (Privacy Studio entry module; scales based on regulatory modules and domains) | 30-day limited trial access upon request (for Nymity regulatory intelligence database; no permanent free tier) | Privacy compliance platform with regulatory assessment, data mapping, and cross-border transfer management. |
+| **[Skyflow](https://www.skyflow.com/)** | ~$200M valuation ($101M funded; ~$20M–$25M ARR) | ~$1,500/month (~$18,000/year entry tier; median enterprise contracts ~$195,000/year scaled by protected records) | 14-day developer sandbox trial upon request (covers test vaults and API tokens; no permanent production free tier) | Data privacy vault with regional data residency enforcement. Stores PII in isolated data vaults per jurisdiction with granular access controls. |
+| **[Privacera](https://privacera.com/)** | ~$150M–$200M valuation ($67.3M funded; ~$25M–$38M ARR) | ~$20,000/year (PrivaceraCloud baseline subscription; scales by compute nodes and data volume) | 30-day free trial of PrivaceraCloud (limited to 5 connected cloud data sources and sandbox compute) | Data security and governance platform with fine-grained access control, data masking, and policy enforcement across cloud data platforms. |
+| **[Transcend](https://transcend.io/)** | ~$150M valuation ($90M funded; ~$16M ARR) | ~$10,000/year (starter compliance tier; mid-market bundles average ~$50,000+/year) | 14-day interactive demo sandbox upon sales validation (no permanent free tier) | Privacy infrastructure platform with DSR automation, consent management, and data mapping with residency controls. |
+| **[Ketch](https://www.ketch.com/)** | ~$100M–$150M valuation ($43M funded; ~$9M ARR) | $0/month (Free Tier); Starter paid tier starts at $150/month ($1,800/year) | Free tier: Up to 5,000 monthly unique visitors (includes CMP, preference center, 2 integrations); 30-day free trial on paid plans | Privacy automation platform with consent management, data subject rights, and cross-border transfer policy enforcement. |
+| **[InCountry](https://incountry.com/)** | ~$60M–$100M valuation ($66M funded; ~$10M–$14M ARR) | ~$2,500/month (~$30,000/year entry tier per regulated country point-of-presence) | 30-day sandbox evaluation trial upon request (for localized storage APIs and AgentCloak; no perpetual free tier) | Data residency-as-a-service platform. Stores regulated data in-country while applications remain global. Features local encryption, key management, and compliance with data localization mandates. |
 
 
 
