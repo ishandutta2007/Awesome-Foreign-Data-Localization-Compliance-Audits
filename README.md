@@ -74,7 +74,7 @@ The following enterprise platforms provide managed, turn-key solutions for globa
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source repositories for self-hosted data localization, policy-as-code enforcement, sovereign AI governance, and infrastructure audits. Sorted descending by GitHub Stars_Count:
+Curated open-source repositories for self-hosted data localization, policy-as-code enforcement, sovereign AI governance, and infrastructure audits. Sorted descending by GitHub_Stars_Count:
 
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
   Unified metadata platform for data governance, automated data discovery, data lineage, and geolocation residency classification. Enables teams to tag tables and columns with regional sovereignty attributes and audit cross-region pipeline movements across modern data lakes.
