@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Foreign-Data-Localization-Compliance-Audits/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,7 +74,7 @@ The following enterprise platforms provide managed, turn-key solutions for globa
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source repositories for self-hosted data localization, policy-as-code enforcement, sovereign AI governance, and infrastructure audits. Sorted descending by GitHub star count:
+Curated open-source repositories for self-hosted data localization, policy-as-code enforcement, sovereign AI governance, and infrastructure audits. Sorted descending by GitHub Stars_Count:
 
 - **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)  
   Unified metadata platform for data governance, automated data discovery, data lineage, and geolocation residency classification. Enables teams to tag tables and columns with regional sovereignty attributes and audit cross-region pipeline movements across modern data lakes.
@@ -155,7 +155,7 @@ Contributions are warmly welcomed! Help build the definitive open resource for f
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/new-sovereignty-tool`).
 3. 📝 Add or update entries in `README.md` keeping descriptions factual, concise, and linked to official repositories or sites.
-4. ⭐ Add the GitHub stars badge for open-source repositories using the standard format.
+4. ⭐ Add the GitHub_Stars_Badge for open-source repositories using the standard format.
 5. 🚀 Submit a Pull Request with a clear description of the project and its relevance to data residency compliance.
 
 ---
